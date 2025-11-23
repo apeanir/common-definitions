@@ -34,13 +34,6 @@ native_regions:
   - Southeast Asia: GCAM-KSA v2.0|Southeast Asia
   - Taiwan: GCAM-KSA v2.0|Taiwan
   - USA: GCAM-KSA v2.0|USA
-  # G20 members (without renaming)
-  - Brazil
-  - Canada
-  - China
-  - India
-  - Japan
-  - South Korea
 
 common_regions:
   - World:
