@@ -26,6 +26,7 @@ native_regions:
   - Middle East: GCAM-KSA v2.0|Middle East
   - Pakistan: GCAM-KSA v2.0|Pakistan
   - Russia: GCAM-KSA v2.0|Russia
+  - Saudi Arabia: GCAM-KSA v2.0|Saudi Arabia
   - South Africa: GCAM-KSA v2.0|South Africa
   - South America_Northern: GCAM-KSA v2.0|South America_Northern
   - South America_Southern: GCAM-KSA v2.0|South America_Southern
@@ -61,6 +62,7 @@ common_regions:
       - Middle East
       - Pakistan
       - Russia
+      - Saudi Arabia
       - South Africa
       - South America_Northern
       - South America_Southern
@@ -95,6 +97,7 @@ common_regions:
       - Africa_Western
       - Middle East
       - South Africa
+      - Saudi Arabia
   - OECD & EU (R5):
       - USA
       - Australia_NZ
@@ -151,6 +154,7 @@ common_regions:
       - Africa_Southern
       - Africa_Western
       - South Africa
+      - Saudi Arabia
 
   # R10 regions
   - Africa (R10):
@@ -180,6 +184,7 @@ common_regions:
       - Mexico
   - Middle East (R10):
       - Middle East
+      - Saudi Arabia
   - North America (R10):
       - Canada
       - USA
